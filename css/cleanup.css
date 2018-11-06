@@ -13,3 +13,7 @@ div#wall #tag-3.wicked.slick{
 #wall .parent>#tag-4{
   display:none
 }
+
+#wall .parent>#tag-4.slick{
+  display:none
+}
